@@ -12,7 +12,7 @@ public class Anagram
 	Arrays.sort(charfirst);
 	Arrays.sort(charsecond);
 	
-	System.out.println(Arrays.equals(charfirst, charsecond));
+	System.out.print(Arrays.equals(charfirst, charsecond));
 	}
 
 
