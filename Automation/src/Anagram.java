@@ -5,7 +5,7 @@ public class Anagram
 
 	public static void main(String[] args)
 	{
-	String first="abc ";
+	String first="abc";
 	char[] charfirst=first.toCharArray();
 	String second="cba";
 	char[] charsecond=second.toCharArray();
